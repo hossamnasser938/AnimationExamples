@@ -1,5 +1,5 @@
 # AnimationExamples
-4 use cases for React Native Animated Api and LayoutAnimation Api built through this youtube [tutorial]().
+4 use cases for React Native Animated Api and LayoutAnimation Api built through this youtube [tutorial](https://www.youtube.com/playlist?list=PL0bESU04Rrw3i9tvV9RDOGoaJ1oOxV6q6).
 
 ## Use Case 1 <br />
 ![Use Case 1 GIF](https://github.com/hossamnasser938/AnimationExamples/blob/master/gifs/motivation-usecase1-gif.gif)
